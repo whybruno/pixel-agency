@@ -13,6 +13,14 @@
   font-style: normal;
 }
 
-#hero {
+#firstComponent {
   background-image: url(./images/bg2.jpg);
+}
+
+.min-h-112 {
+  min-height: 48rem;
+}
+
+.max-h-112 {
+  min-height: 48rem;
 }
